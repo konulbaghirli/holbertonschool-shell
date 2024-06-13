@@ -1,0 +1,4 @@
+#!/bin/bash
+gid add .
+git commit -m "abs"
+git push
